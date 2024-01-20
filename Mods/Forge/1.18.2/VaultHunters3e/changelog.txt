@@ -1,0 +1,9 @@
+[21.01.2024_0]
+
++Added Not Enough Crashes mod.
+-Removed Krypton-549394 (Due to incompatibility with Pluto-682881).
+-Removed Debugify-596224 (Conflicts with MixinExtras).
++Added Modern Debugify-914659.
+-Removed Radium-570017 (Conflicts with MixinExtras... Canary-665658 is an alternative).
+
+---
