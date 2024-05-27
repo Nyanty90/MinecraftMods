@@ -1,9 +1,38 @@
 [21.01.2024_0]
 
 +Added Not Enough Crashes mod.
--Removed Krypton-549394 (Due to incompatibility with Pluto-682881).
+-Removed Krypton-549394 (Incompatible with Pluto-682881).
 -Removed Debugify-596224 (Conflicts with MixinExtras).
 +Added Modern Debugify-914659.
 -Removed Radium-570017 (Conflicts with MixinExtras... Canary-665658 is an alternative).
+
+---
+
+[21.01.2024_1]
+
++Added Placebo-283644 (Dependency) -> Removed in [21.01.2024_2].
+-Removed Reforgium-853424 (Conflicting on server-side).
+
+---
+
+[21.01.2024_2]
+
++Added Embeddium/Rubidium Dynamic Lights-551736
++Added Embeddium/Rubidium Extras-558905
++Added TexTrue's Rubidium Options-663125
+-Removed Placebo-283644 (Included in VH3e Modpack).
+-Removed Architectury API-419699 (Included in VH3e Modpack).
+-Removed Cloth Config-348521 (Included in VH3e Modpack) -> Added back later.
+-Removed Curios API-309927 (Included in VH3e Modpack).
+-Removed GeckoLib-388172 (Included in VH3e Modpack).
+-Removed JEI-238222 (Included in VH3e Modpack).
+-Removed PuzzlesLib-495476 (Included in VH3e Modpack).
+-Removed Clumps-256717 (Included in VH3e Modpack).
+-Removed Fast Workbench-288885 (Included in VH3e Modpack).
+-Removed FerriteCore-429235 (Included in VH3e Modpack).
+-Removed Dimensional Threads-955545 (Incompatible with VH3e).
+-Removed Embeddium-908741 (Incompatible with VH3e).
+-Removed Mouse Tweaks-60089 (Included in VH3e Modpack).
+-Removed TexTrue's Embeddium Options-910506 (Dependent on Embeddium which was removed due to Incompatibility).
 
 ---
