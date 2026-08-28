@@ -56,8 +56,10 @@ Cloth Config API | Both
 Fabric API | Both
 Fabric Language Kotlin | Both
 Forge Config API Port | Both
+Fzzy Config | Both
 GeckoLib | Both
 Mod Menu | Client
 Puzzles Lib | Both
 Reese's Sodium Options | Client
 YetAnotherConfigLib (YACL) | Both
+ZConfig | Both
