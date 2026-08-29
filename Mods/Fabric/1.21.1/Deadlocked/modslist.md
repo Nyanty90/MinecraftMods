@@ -29,6 +29,7 @@ Better Beds | Client
 Concurrent Chunk Management Engine (Fabric) | Both
 Chunky | Both
 Clumps | Server
+Cull Leaves | Client
 Debugify | Both
 Dynamic FPS | Client
 Entity Culling | Client
@@ -52,13 +53,17 @@ Structure Layout Optimizer | Server
 oωo (owo-lib) | Both
 Architectury API | Both
 Cardinal Components API | Both
+CIT Resewn | Client
 Cloth Config API | Both
+[EMF] Entity Model Features | Client
+[ETF] Entity Texture Features | Client
 Fabric API | Both
 Fabric Language Kotlin | Both
 Forge Config API Port | Both
 Fzzy Config | Both
 GeckoLib | Both
 Mod Menu | Client
+OptiGUI | Client
 Puzzles Lib | Both
 Reese's Sodium Options | Client
 YetAnotherConfigLib (YACL) | Both
