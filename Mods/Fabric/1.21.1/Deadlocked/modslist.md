@@ -17,6 +17,7 @@ No Telemetry | Both
 Not Enough Crashes | Both
 Shulker Box Tooltip | Both
 Simple Voice Chat | Both
+Sophisticated Backpacks (Unoffical Fabric port) | Both
 Status Effect Bars | Client
 Status Effect Timer | Client
 Zoomify (Zoom) | Client
@@ -66,5 +67,6 @@ Mod Menu | Client
 OptiGUI | Client
 Puzzles Lib | Both
 Reese's Sodium Options | Client
+Sophisticated Core (Unofficial Fabric port) | Both
 YetAnotherConfigLib (YACL) | Both
 ZConfig | Both
