@@ -8,8 +8,9 @@ Boat Item View | Client
 Chat Heads | Client
 Continuity | Client
 Distant Horizons | Both
+Give Me Hats! | Both
 Iris Shaders | Client
-Just Enough Items (JEI)} | Both
+Just Enough Items (JEI) | Both
 LambDynamicLights - Dynamic Lights | Client
 Mouse Tweaks | Client
 No Chat Reports | Both
@@ -20,6 +21,9 @@ Simple Voice Chat | Both
 Sophisticated Backpacks (Unoffical Fabric port) | Both
 Status Effect Bars | Client
 Status Effect Timer | Client
+Trinkets | Both
+Universal Graves | Server
+WaypointsPlus | Client
 Zoomify (Zoom) | Client
 
 ## --- Optimization ---
@@ -66,6 +70,7 @@ GeckoLib | Both
 Mod Menu | Client
 OptiGUI | Client
 Puzzles Lib | Both
+Polymer | Both
 Reese's Sodium Options | Client
 Sophisticated Core (Unofficial Fabric port) | Both
 YetAnotherConfigLib (YACL) | Both
