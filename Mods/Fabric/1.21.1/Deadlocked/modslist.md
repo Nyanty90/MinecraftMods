@@ -5,6 +5,7 @@
 BetterF3 | Client
 Better Recipe Book | Client
 Boat Item View | Client
+cat_jam | Client
 Chat Heads | Client
 Continuity | Client
 Distant Horizons | Both
@@ -16,6 +17,7 @@ Mouse Tweaks | Client
 No Chat Reports | Both
 No Telemetry | Both
 Not Enough Crashes | Both
+Respawnable Pets | Both
 Shulker Box Tooltip | Both
 Simple Voice Chat | Both
 Sophisticated Backpacks (Unoffical Fabric port) | Both
