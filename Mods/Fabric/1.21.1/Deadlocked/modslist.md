@@ -23,6 +23,7 @@ Simple Voice Chat | Both
 Sophisticated Backpacks (Unoffical Fabric port) | Both
 Status Effect Bars | Client
 Status Effect Timer | Client
+Tree Harvester | Server
 Trinkets | Both
 Universal Graves | Server
 WaypointsPlus | Client
@@ -62,6 +63,7 @@ Architectury API | Both
 Cardinal Components API | Both
 CIT Resewn | Client
 Cloth Config API | Both
+Collective | Both
 [EMF] Entity Model Features | Client
 [ETF] Entity Texture Features | Client
 Fabric API | Both
